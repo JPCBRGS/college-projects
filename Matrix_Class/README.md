@@ -1,5 +1,4 @@
-Nome: João Pedro Clemente Borges
-Matrícula: 95654
+## Dynamic matrix manipulation and ragged arrays
 
 
 1 - EXPERIMENTOS REALIZADOS COM A CLASSE MyMatrix.h UTILIZANDO O CÓDIGO Benchmark.cpp:
