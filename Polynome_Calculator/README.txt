@@ -1,1 +1,0 @@
-This code was made by me (João Pedro Clemente) and classmates as our final INF112 project. This program calculates several polynomial utilities, uses dynamic allocation, and many operators overloading. Includes a Makefile for compiling.

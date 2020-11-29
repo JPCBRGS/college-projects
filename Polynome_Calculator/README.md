@@ -1,0 +1,9 @@
+# Polynome calculation class
+This folder contains a header file and a C++ file that contains a class that's able to accomplish several operations with polynomes.
+
+## Programming concepts included here:
+- Basic programming concepts: conditionals, loops, functions and more
+- Dynamic memory allocation
+- Pointers and references
+- Object oriented programming
+- Operator overloading
