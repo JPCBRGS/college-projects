@@ -6,6 +6,7 @@ This repository contain some of my most relevant work during programming subject
 - Pointers and references
 - Dynamic memory allocation
 - Object oriented programming
+- Operator overloading
 - Templates
 - Data structures
 
