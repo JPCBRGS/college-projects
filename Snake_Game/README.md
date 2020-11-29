@@ -2,7 +2,7 @@
 This program was fully written in the C++ language and contain three classes with their header files and C++ files and the **JogoSnake.cpp** file that contains a user interface implementation using then ncurses library and if you you compile this file along with your classes you will have game.
 
 ## Commands used to compile this game:
-**Remember that you need to have the ncurses library installed on your machine for the game to work properly**
+**Remember that you need to have the ncurses library installed on your machine for the game to work properly**.
 In the terminal, use: g++ jogoSnake.cpp Snake.cpp Game.cpp Screen.cpp -lncurses -o jogoSnake.exe
 
 ## Main programming concepts included here:
