@@ -1,4 +1,4 @@
-# Snake game using double linked lists and object oriented programming
+# The classic Snake game using double linked lists and object oriented programming
 This program was fully written in the C++ language and contain three classes with their header files and C++ files and the **JogoSnake.cpp** file that contains a user interface implementation using then ncurses library and if you you compile this file along with your classes you will have game. It is also important to say that this game didn’t focus on efficiency, but rather train these programming concepts below
 .
 ## Commands used to compile this game:
