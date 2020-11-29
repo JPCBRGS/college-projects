@@ -8,6 +8,8 @@ This project contains a class that's able to create and manipulate a dynamic all
 - Dynamic memory allocation
 - Object oriented programming
 
+Also, there are two files, a pdf one that contains a more detailed explanation of how this program works and a file named "Experimentos.txt" that contains some experiments comparing these two types of matrixes and their efficiency (on my machine), but these files are in portuguese only.
+
 
 
 
