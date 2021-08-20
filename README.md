@@ -9,5 +9,5 @@ This repository contains some of my most relevant work from programming subjects
 - Operator overloading
 - Templates
 - Data structures
-- AI algorithms, and problem solving
+- AI algorithms and problem solving
 
