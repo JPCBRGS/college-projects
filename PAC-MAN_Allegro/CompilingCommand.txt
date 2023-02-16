@@ -1,3 +1,0 @@
-If you have installed the Allegro library on your PC, just type the following command in terminal:
-
-g++ pacman.cpp -lallegro -lallegro_image -lallegro_audio -lallegro_acodec -lallegro_font -lallegro_ttf
