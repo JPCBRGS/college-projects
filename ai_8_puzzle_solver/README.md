@@ -1,4 +1,4 @@
-# 8 Puzzle game using the A* search algorithm
+# 8 Puzzle Game Using The A* Search Algorithm
 
 This project contains a solution for the 8 Puzzle game using the A* search algorithm. I didn't implement 100% of this code as some classes were already given previously, but the **AEstrelaImp.py** file which contains the class that represents algorithm and problem solving was entirely implemented by myself, João Pedro Clemente Borges. There are some comments in Portuguese explaining some relevant parts of the code, and how it works. 
 
