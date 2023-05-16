@@ -5,7 +5,7 @@ This is a program to calculate matrices using the normal algorithm (1.C) and the
 **For More Information About the Algorithm, Access:** https://en.wikipedia.org/wiki/Strassen_algorithm
 
 ## Main Programming Concepts Found Here:
-- Basic programming: conditionals, functions, loops and more
-- Recursivity
-- Pointers and references
-- Dynamic memory allocation
+- Basic programming: conditionals, functions, loops and more;
+- Recursivity;
+- Pointers and references;
+- Dynamic memory allocation.
