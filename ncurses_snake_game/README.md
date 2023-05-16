@@ -6,11 +6,11 @@ This program was fully written in the C++ language and contain three classes wit
 - In the terminal, use: g++ jogoSnake.cpp Snake.cpp Game.cpp Screen.cpp -lncurses -o jogoSnake.exe
 
 ## Main Programming Concepts Included Here:
-- Basic programming: conditionals, loops, functions and more
-- Pointers and references
-- Dynamic memory allocation
-- Object oriented programming
-- Data structures (the snake is a double linked list of nodes)
-
+- Basic programming: conditionals, loops, functions and more;
+- Pointers and references;
+- Dynamic memory allocation;
+- Object oriented programming;
+- Data structures (the snake is a double linked list of nodes).
+- 
 Also, the pdf file contains a better explanation of how this code should work, feel free to read, but this document is all written in portuguese.
 
