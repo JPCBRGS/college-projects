@@ -1,9 +1,3 @@
-#---------------------------------------------#
-# INTEGRANTES DO GRUPO:
-## João Pedro Clemente Borges - 95654
-## Marcelo Castro Grossi - 95686
-#---------------------------------------------#
-
 import os
 import logging
 import socket
